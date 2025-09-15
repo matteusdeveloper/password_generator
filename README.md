@@ -41,5 +41,5 @@ Este projeto é uma demonstração de habilidades básicas. Sinta-se à vontade 
 
 **Matheus de Andrade**
 
-[Meu Perfil do GitHub](https://github.com/matteusdeveloper)
-[Meu LinkedIn (opcional)](www.linkedin.com/in/matheus-de-andrade-5a430b301)
+[Perfil do GitHub](https://github.com/matteusdeveloper)
+[LinkedIn](www.linkedin.com/in/matheus-de-andrade-5a430b301)
