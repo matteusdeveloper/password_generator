@@ -18,8 +18,8 @@ Para executar o Gerador de Senhas, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-    cd nome-do-repositorio
+    git clone [https://github.com/matteusdeveloper/password_generator.git](https://github.com/matteusdeveloper/password_generator.git)
+    cd password_generator
     ```
 
 2.  **Execute o script:**
@@ -39,7 +39,7 @@ Este projeto é uma demonstração de habilidades básicas. Sinta-se à vontade 
 
 ## Autor
 
-**Seu Nome**
+**Matheus de Andrade**
 
-[https://github.com/matteusdeveloper)
-[www.linkedin.com/in/matheus-de-andrade-5a430b301)
+[Meu Perfil do GitHub](https://github.com/matteusdeveloper)
+[Meu LinkedIn (opcional)](www.linkedin.com/in/matheus-de-andrade-5a430b301)
