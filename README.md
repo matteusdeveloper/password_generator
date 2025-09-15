@@ -41,5 +41,5 @@ Este projeto é uma demonstração de habilidades básicas. Sinta-se à vontade 
 
 **Seu Nome**
 
-[Seu Perfil do GitHub](https://github.com/seu-usuario)
-[Seu LinkedIn (opcional)](https://www.linkedin.com/in/seu-linkedin)
+[https://github.com/matteusdeveloper)
+[www.linkedin.com/in/matheus-de-andrade-5a430b301)
